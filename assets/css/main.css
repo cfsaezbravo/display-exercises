@@ -1,0 +1,58 @@
+/*PRIMER HTML*/
+.caja {
+	display: block;
+	background-color: yellow;
+	padding: 20px;
+}
+
+.segundo {
+	display:block;
+	background-color: red;
+	padding: 20px;
+}
+
+/*SEGUNDO HTML*/
+
+.caja1 {
+	display: block;
+	background-color: yellow;
+	padding: 20px;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 153px;
+}
+
+.caja2 {
+	display:block;
+	background-color: red;
+	padding: 20px;
+	width: 153px;
+}
+
+.caja3 {
+	display: block;
+	background-color: yellow;
+	padding: 20px;
+	margin-top: 10px;
+	width: 153px;
+}
+
+/*TERCER HTML*/
+
+.box1 {
+	display: inline-block;
+	background-color: yellow;
+	padding: 7px;
+}
+
+.box2 {
+	display: inline-block;
+	background-color: red;
+	padding: 7px;
+}
+
+.box3 {
+	display: inline-block;
+	background-color: yellow;
+	padding: 7px;
+}
