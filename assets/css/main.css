@@ -56,3 +56,26 @@
 	background-color: yellow;
 	padding: 7px;
 }
+
+/*CUARTO HTML*/
+
+.contenedor1 {
+	display: inline-block;
+	background-color: yellow;
+	padding-bottom: 50px;
+	padding-right: 100px;
+}
+
+.contenedor2 {
+	display: inline-block;
+	background-color: red;
+	padding-bottom: 50px;
+	padding-right: 100px;
+}
+
+.contenedor3 {
+	display: inline-block;
+	background-color: yellow;
+	padding-bottom: 50px;
+	padding-right: 100px;
+}
